@@ -97,5 +97,14 @@
         "detailUrl": "https://dod.com.tr/arac-detay/",
         "expertiseUrl": "https://gw.dod.com.tr/gw-advertisement/getExpertiseDetail",
         "vehicleDetailUrl": "https://gw.dod.com.tr/gw-advertisement/getAdvertisementVehicle"
+    },
+    {
+        "id": 12,
+        "name": "ateca karışık artan",
+        "postUrl": "https://gw.dod.com.tr/gw-search/SearchByFieldDodCarDetailIndex",
+        "postBody": {"categoryIds":["3"],"brands":["19"],"models":["1047"],"modelTypeCode":[],"fuelTypes":[],"gearTypes":[],"year":{"minYear":0,"maxYear":0},"km":{"minKm":0,"maxKm":0},"price":{"minPrice":0,"maxPrice":0},"guarantyStates":[],"cityCodes":[],"firms":[],"vehicleVarieties":[],"vehicleEngineCapacities":[],"vehicleEnginePowers":[],"drivenWheels":[],"vehicleClassess":[],"vehicleTypes":[],"vehicleColors":[],"stockEntryDate":0,"condition":[],"inner360":false,"isCampaignVehicle":false,"isRentable":false,"fileNumber":"","keyword":"","currencyCode":"","sortingCriteria":7,"viewType":1,"pagination":{"pageSize":100,"page":"1"},"isQueryParam":true,"vehicleIds":[]},
+        "detailUrl": "https://dod.com.tr/arac-detay/",
+        "expertiseUrl": "https://gw.dod.com.tr/gw-advertisement/getExpertiseDetail",
+        "vehicleDetailUrl": "https://gw.dod.com.tr/gw-advertisement/getAdvertisementVehicle"
     }
 ]
